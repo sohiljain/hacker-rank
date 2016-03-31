@@ -1,8 +1,9 @@
-import java.io.*;
-import java.util.*;
+import java.util.Scanner;
 
-public class Solution {
-
+/**
+ * Created by sohiljain.cs91 on 31-03-2016.
+ */
+public class SherlockAndArray {
     public static void main(String[] args) {
 
         Scanner sc = new Scanner(System.in);
@@ -39,5 +40,7 @@ public class Solution {
             else
                 System.out.println("NO");
         }
+
     }
+
 }
